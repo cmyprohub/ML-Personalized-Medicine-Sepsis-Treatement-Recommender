@@ -1,6 +1,5 @@
 ---
 title: "Personalized Medicine - Sepsis Treatement Recommender Using Virtual Twins Model"
-author: "Suma Venugopal"
 date: "Oct 2019"
 output:
   pdf_document:
